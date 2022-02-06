@@ -1,0 +1,23 @@
+{
+  "name": "ohmyfood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seelyks/CordierKevin_3_31012022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seelyks/CordierKevin_3_31012022/issues"
+  },
+  "homepage": "https://github.com/Seelyks/CordierKevin_3_31012022#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
