@@ -1,5 +1,17 @@
-$color: red;
+@import "utils/mixins";
+@import "utils/variables";
 
-body {
-    background-color: $color;
-}
+
+@import "pages/index";
+@import "pages/menu";
+
+@import "layouts/footer";
+@import "layouts/header";
+
+@import "base/base";
+
+@import "animations/button";
+@import "animations/card";
+@import "animations/like";
+@import "animations/loader";
+@import "animations/menu-item";
